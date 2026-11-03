@@ -1,4 +1,4 @@
-# Tabungan Saya
+# Finwise
 
 Aplikasi web satu halaman (satu file HTML, JavaScript murni) untuk mencatat tabungan Fauzi dan Ayu.
 
